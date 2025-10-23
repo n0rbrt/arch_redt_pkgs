@@ -1,6 +1,5 @@
-# archpkgs
-
 Red teaming and pentesting tools packaged for Arch Linux.
+Updated by nrbr
 
 Remarks:
 
