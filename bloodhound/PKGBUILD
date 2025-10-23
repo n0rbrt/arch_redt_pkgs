@@ -1,7 +1,7 @@
 pkgname=bloodhound
 pkgver=latest
 pkgrel=1
-url="https://github.com/bloodhoundad/${pkgname}.git"
+url="https://gitlab.com/kalilinux/packages/bloodhound.git"
 arch=(any)
 license=(GPL3)
 depends=(alsa-lib gtk3 nodejs nss)
